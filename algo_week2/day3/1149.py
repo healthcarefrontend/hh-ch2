@@ -1,20 +1,4 @@
 # # RGB 거리
-# a = int(input())
-# color_list = []
-# color_list2 = [0] * (a + 1)
-
-
-# def search_minimum(list):
-
-
-# for i in range(a):
-#     a, b, c = map(int, input().split())
-#     color_list.append([a, b, c])
-
-
-# print(color_list)
-
-
 n = int(input())
 p = []
 for i in range(n):
